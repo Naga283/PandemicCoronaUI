@@ -1,10 +1,14 @@
 # pandamic
 
-A new Flutter project.
+This is the basic UI Practice for me .
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Using lottie:
+      flutter_svg:
+
+## Screenshots
+
 
 A few resources to get you started if this is your first Flutter project:
 
