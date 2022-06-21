@@ -8,7 +8,7 @@ Using lottie:
       flutter_svg:
 
 ## Screenshots
-
+<img src="https://user-images.githubusercontent.com/75671317/174814781-69ecf115-9064-426b-89ad-3d711f382025.png">
 
 A few resources to get you started if this is your first Flutter project:
 
